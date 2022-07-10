@@ -25,6 +25,25 @@
 .nav-link {
   color: #FD2D01!important;
 }
+
 .dropdown-item.active, .dropdown-item:active{
   background-color: #FFD7D7 !important;
+}
+
+.btn-primary, .btn-primary:hover {
+  background-color: #4E5166!important;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color:#FD2D01!important;
+  border-color:#FD2D01!important;
+}
+
+a, a:active {
+  color: #4E5166!important;
+}
+
+a:hover {
+  color: #FFD7D7!important;
 }

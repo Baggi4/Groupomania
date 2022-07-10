@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+/*Couleurs :
+● Primaire : #FD2D01
+● Secondaire : #FFD7D7
+● Tertiaire : #4E5166*/
+
+*body {
+  font-family: 'Lato', sans-serif;
+}
+
+.bg-default-image {
+  background-image: url("/images/mika-AZXye0EF9hE-unsplash.jpg");
+  background-size: 100%;
+  height: 150px;
+  text-shadow: 2px 2px 8px #4E5166;
+}
+.active {
+  background-color: #FFD7D7;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.nav-link {
+  color: #FD2D01!important;
+}
+.dropdown-item.active, .dropdown-item:active{
+  background-color: #FFD7D7 !important;
+}

@@ -1,0 +1,9 @@
+.footer {
+    background-color: blueviolet;
+}
+.form-control{
+    margin: 0 auto;
+}
+input, button, select, optgroup, textarea {
+    margin: 0 auto;
+}
